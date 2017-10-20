@@ -1,0 +1,3 @@
+ID=873F
+NAME=F. Forbidden Indices
+TIMELIMIT=2

@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CONFIG	../config.py	/^CONFIG = {$/;"	kind:variable	line:3
+CfContestParser	../main.py	/^class CfContestParser:$/;"	kind:class	line:44
+CfProblemParser	../main.py	/^class CfProblemParser:$/;"	kind:class	line:48
+Problem	../main.py	/^class Problem:$/;"	kind:class	line:29
+UriProblemParser	../main.py	/^class UriProblemParser:$/;"	kind:class	line:90
+__init__	../main.py	/^    def __init__(self, id, name, timelimit, testcases=[]):$/;"	kind:member	line:31
+__init__	../main.py	/^    def __init__(self, problem_id):$/;"	kind:member	line:52
+__init__	../main.py	/^    def __init__(self, problem_id):$/;"	kind:member	line:94
+__str__	../main.py	/^    def __str__(self):$/;"	kind:member	line:40
+addTestCase	../main.py	/^    def addTestCase (self, testcase):$/;"	kind:member	line:37
+config.py	../config.py	1;"	kind:file	line:1
+create_folder	../main.py	/^def create_folder(directory):$/;"	kind:function	line:22
+get_samples	../main.py	/^    def get_samples(self, kind):$/;"	kind:member	line:71
+host	../main.py	/^    host = config.CONFIG['cf']['host']$/;"	kind:variable	line:50
+host	../main.py	/^    host = config.CONFIG['uri']['host']$/;"	kind:variable	line:92
+main.py	../main.py	1;"	kind:file	line:1
+options	../main.py	/^    options = docopt(__doc__, version='1.0.0', options_first=True)$/;"	kind:variable	line:126
+problem	../main.py	/^    problem = UriProblemParser('1139').to_problem()$/;"	kind:variable	line:130
+str_tag	../main.py	/^    def str_tag(self, tag):$/;"	kind:member	line:105
+str_tag	../main.py	/^    def str_tag(self, tag):$/;"	kind:member	line:64
+to_problem	../main.py	/^    def to_problem(self):$/;"	kind:member	line:112
+to_problem	../main.py	/^    def to_problem(self):$/;"	kind:member	line:78

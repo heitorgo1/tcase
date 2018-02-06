@@ -1,0 +1,4 @@
+ID=872
+NAME=Ordering
+TIMELIMIT=3
+OJ=UVA
